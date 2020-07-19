@@ -1,22 +1,22 @@
 {
     "albums": [
         {
-            "artist" : "Nas",
-            "title" : "Illmatic",
-            "year" : "1994",
-            "single" : "NY State of Mind"
+            "artist": "Nas",
+            "title": "Illmatic",
+            "year": "1994",
+            "single": "NY State of Mind"
         },
         {
-            "artist" : "Notorious B.I.G.",
-            "title" : "Ready to Die",
-            "year" : "1994",
-            "single" : "Juicy"
+            "artist": "Notorious B.I.G.",
+            "title": "Ready to Die",
+            "year": "1994",
+            "single": "Juicy"
         },
         {
             "artist": "Dr. Dre",
-            "title" : "The Chronic",
-            "year" : "1992",
-            "single" : "Nuthin' but a 'G' Thang"
+            "title": "The Chronic",
+            "year": "1992",
+            "single": "Nuthin' but a 'G' Thang"
         },
         {
             "artist": "Wu-Tang Clan",
@@ -31,94 +31,286 @@
             "single": "Straight Outta Compton"
         },
         {
-            "artist" : "2Pac",
-            "title" : "All Eyez On Me",
-            "year" : "1996",
-            "single" : "How Do U Want It?"
+            "artist": "2Pac",
+            "title": "All Eyez On Me",
+            "year": "1996",
+            "single": "How Do U Want It?"
         },
         {
-            "artist" : "A Tribe Called Quest",
-            "title" : "Midnight Marauders",
-            "year" : "1993",
-            "single" : "Award Tour"
+            "artist": "A Tribe Called Quest",
+            "title": "Midnight Marauders",
+            "year": "1993",
+            "single": "Award Tour"
         },
         {
-            "artist" : "Snoop Doggy Dogg",
-            "title" : "Doggystyle",
-            "year" : "1993",
-            "single" : "Gin and Juice"
+            "artist": "Snoop Doggy Dogg",
+            "title": "Doggystyle",
+            "year": "1993",
+            "single": "Gin and Juice"
         },
         {
-            "artist" : "Eric B. & Rakim",
-            "title" : "Paid in Full",
-            "year" : "1987",
-            "single" : "Paid in Full"
+            "artist": "Eric B. & Rakim",
+            "title": "Paid in Full",
+            "year": "1987",
+            "single": "Paid in Full"
         },
         {
-            "artist" : "Public Enemy",
-            "title" : "It Takes a Nation of Millions to Hold Us Back",
-            "year" : "1988",
-            "single" : "Bring the Noise"
+            "artist": "Public Enemy",
+            "title": "It Takes a Nation of Millions to Hold Us Back",
+            "year": "1988",
+            "single": "Bring the Noise"
         },
         {
-            "artist" : "De La Soul",
-            "title" : "3 Feet High and Rising",
-            "year" : "1989",
-            "single" : "Me Myself and I"
+            "artist": "De La Soul",
+            "title": "3 Feet High and Rising",
+            "year": "1989",
+            "single": "Me Myself and I"
         },
         {
-            "artist" : "Black Star",
-            "title" : "Mos Def & Talib Kweli are Black Star",
-            "year" : "1997",
-            "single" : "Respiration"
+            "artist": "Black Star",
+            "title": "Mos Def & Talib Kweli are Black Star",
+            "year": "1997",
+            "single": "Respiration"
         },
         {
-            "artist" : "Common",
-            "title" : "Resurrection",
-            "year" : "1994",
-            "single" : "I Used to Love H.E.R."
+            "artist": "Common",
+            "title": "Resurrection",
+            "year": "1994",
+            "single": "I Used to Love H.E.R."
         },
         {
-            "artist" : "Fugees",
-            "title" : "The Score",
-            "year" : "1996",
-            "single" : "Fu-gee-la"
+            "artist": "Fugees",
+            "title": "The Score",
+            "year": "1996",
+            "single": "Fu-gee-la"
         },
         {
-            "artist" : "Beastie Boys",
-            "title" : "Paul's Boutique",
-            "year" : "1989",
-            "single" : "Shake Your Rump"
+            "artist": "Beastie Boys",
+            "title": "Paul's Boutique",
+            "year": "1989",
+            "single": "Shake Your Rump"
         },
         {
-            "artist" : "Mobb Deep",
-            "title" : "The Infamous",
-            "year" : "1995",
-            "single" : "Shook Ones (Pt. II)"
+            "artist": "Mobb Deep",
+            "title": "The Infamous",
+            "year": "1995",
+            "single": "Shook Ones (Pt. II)"
         },
         {
-            "artist" : "Raekwon",
-            "title" : "Only Built 4 Cuban Linx",
-            "year" : "1995",
-            "single" : "Ice Cream"
+            "artist": "Raekwon",
+            "title": "Only Built 4 Cuban Linx",
+            "year": "1995",
+            "single": "Ice Cream"
         },
         {
-            "artist" : "Outkast",
-            "title" : "Aquemini",
-            "year" : "1998",
-            "single" : "Rosa Parks"
+            "artist": "Outkast",
+            "title": "Aquemini",
+            "year": "1998",
+            "single": "Rosa Parks"
         },
         {
-            "artist" : "Ice Cube",
-            "title" : "AmeriKKKa's Most Wanted",
-            "year" : "1990",
-            "single" : "Endangered Species"
+            "artist": "Ice Cube",
+            "title": "AmeriKKKa's Most Wanted",
+            "year": "1990",
+            "single": "Endangered Species"
         },
         {
-            "artist" : "Gang Starr",
-            "title" : "Moment of Truth",
-            "year" : "1998",
-            "single" : "You Know My Steez"
+            "artist": "Gang Starr",
+            "title": "Moment of Truth",
+            "year": "1998",
+            "single": "You Know My Steez"
+        },
+        {
+            "artist": "A Tribe Called Quest",
+            "title": "The Low End Theory",
+            "year": "1991",
+            "single": "Check the Rhime"
+        },
+        {
+            "artist": "Pete Rock & C.L. Smooth",
+            "title": "Mecca and the Soul Brother",
+            "year": "1992",
+            "single": "They Reminisce Over You"
+        },
+        {
+            "artist": "Outkast",
+            "title": "ATLiens",
+            "year": "1996",
+            "single": "Elevators (Me & You)"
+        },
+        {
+            "artist": "De La Soul",
+            "title": "De La Soul is Dead",
+            "year": "1991",
+            "single": "A Roller Skating Jam Named 'Saturdays'"
+        },
+        {
+            "artist": "Gang Starr",
+            "title": "Step in the Arena",
+            "year": "1991",
+            "single": "Just to Get a Rep"
+        },
+        {
+            "artist": "Mos Def",
+            "title": "Black on Both Sides",
+            "year": "1999",
+            "single": "Ms. Fat Booty"
+        },
+        {
+            "artist": "Genius / GZA",
+            "title": "Liquid Swords",
+            "year": "1995",
+            "single": "4th Chamber"
+        },
+        {
+            "artist": "The Roots",
+            "title": "Do You Want More?!!!??!",
+            "year": "19954",
+            "single": "Proceed"
+        },
+        {
+            "artist": "The Roots",
+            "title": "Illadelph Halflife",
+            "year": "1996",
+            "single": "Clones"
+        },
+        {
+            "artist": "Company Flow",
+            "title": "Funcrusher Plus",
+            "year": "1997",
+            "single": "8 Steps to Perfection"
+        },
+        {
+            "artist": "Public Enemy",
+            "title": "Fear of a Black Planet",
+            "year": "1990",
+            "single": "Fight the Power"
+        },
+        {
+            "artist": "The Pharcyde",
+            "title": "Labcabincalifornia",
+            "year": "1995",
+            "single": "Runnin'"
+        },
+        {
+            "artist": "The Roots",
+            "title": "Things Fall Apart",
+            "year": "1999",
+            "single": "You Got Me"
+        },
+        {
+            "artist": "Pete Rock & C.L. Smooth",
+            "title": "The Main Ingredient",
+            "year": "1994",
+            "single": "Straighten It Out"
+        },
+        {
+            "artist": "MF Doom",
+            "title": "Operation: Doomsday",
+            "year": "1999",
+            "single": "Rhymes Like Dimes"
+        },
+        {
+            "artist": "2Pac",
+            "title": "Me Against the World",
+            "year": "1995",
+            "single": "Dear Mama"
+        },
+        {
+            "artist": "Outkast",
+            "title": "Southerplayalisticaddilacmuzik",
+            "year": "1994",
+            "single": "Player's Ball"
+        },
+        {
+            "artist": "The Pharcyde",
+            "title": "Bizarre Ride II The Pharcyde",
+            "year": "1992",
+            "single": "Passin' Me By"
+        },
+        {
+            "artist": "A Tribe Called Quest",
+            "title": "People's Instinctive Travels on the Paths of Rhythm",
+            "year": "1990",
+            "single": "Luck of Lucien"
+        },
+        {
+            "artist": "Nas",
+            "title": "It Was Written",
+            "year": "1996",
+            "single": "If I Ruled the World (Imagine That)"
+        },
+        {
+            "artist": "Wu-Tang Clan",
+            "title": "Wu-Tang Forever",
+            "year": "1997",
+            "single": "Triumph"
+        },
+        {
+            "artist": "Jeru the Damaja",
+            "title": "The Sun Rises in the East",
+            "year": "1994",
+            "single": "Come Clean"
+        },
+        {
+            "artist": "Jeru the Damaja",
+            "title": "The Wrath of the Math",
+            "year": "1996",
+            "single": "Me or the Papes"
+        },
+        {
+            "artist": "Ghostface Killah",
+            "title": "Ironman",
+            "year": "1996",
+            "single": "Daytona 500"
+        },
+        {
+            "artist": "Gang Starr",
+            "title": "Hard to Earn",
+            "year": "1994",
+            "single": "DWYCK"
+        },
+        {
+            "artist": "Jay-Z",
+            "title": "Reasonable Doubt",
+            "year": "1996",
+            "single": "Feelin' It"
+        },
+        {
+            "artist": "Black Moon",
+            "title": "Enta Da Stage",
+            "year": "1993",
+            "single": "I Got Cha Opin"
+        },
+        {
+            "artist": "Eminem",
+            "title": "The Slim Shady LP",
+            "year": "1999",
+            "single": "Slim Shady"
+        },
+        {
+            "artist": "Redman",
+            "title": "Muddy Waters",
+            "year": "1996",
+            "single": "Rock Da Spot"
+        },
+        {
+            "artist": "Redman",
+            "title": "Whut? The Album",
+            "year": "1992",
+            "single": "Tonight's Da Night"
+        },
+        {
+            "artist": "Organized Konfusion",
+            "title": "Stress: The Extinction Agenda",
+            "year": "1994",
+            "single": "Let's Organize"
+        },
+        {
+            "artist": "Gravediggaz",
+            "title": "6 Feet Deep",
+            "year": "1994",
+            "single": "Diary of a Madman"
         }
     ]
 }
